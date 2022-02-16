@@ -1,5 +1,5 @@
 {
-  "name": "@dx/is-empty-object",
+  "name": "obj-is-empty",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

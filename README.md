@@ -10,13 +10,13 @@ $ npm install --save is-empty-object
 ## Usage
 
 ```js
-const isEmptyObject = require('@jd/is-empty-object')
+const isEmptyObject = require('obj-is-empty')
 ```
 
 ## Example
 
 ```js
-const isEmptyObject = require('@jd/is-empty-object')
+const isEmptyObject = require('obj-is-empty')
 let isEmpty = isEmptyObject({}) //true
 let isEmpty1 = isEmptyObject({[Symbol('a')]: 1}) //false
 ```
