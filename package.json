@@ -1,0 +1,19 @@
+{
+  "name": "is-empty-object",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "junda.mao",
+  "license": "ISC",
+  "keywords": [
+    "check",
+    "object",
+    "empty"
+  ],
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
