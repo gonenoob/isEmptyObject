@@ -31,6 +31,16 @@ test('input undefined throw error', () => {
   }).toThrow()
 })
 
+test('enumerable false be false', () => {
+  const obj = {}
+  Object.defineProperty(obj, 'a', {
+    value: '2',
+    enumerable: false
+  })
+
+  expect(isEmptyObject(obj)).toBe(false)
+})
+
 test('{} be true', () => {
   expect(isEmptyObject({})).toBe(true)
 })
