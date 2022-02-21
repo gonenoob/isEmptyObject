@@ -1,10 +1,10 @@
 # number-digit
-[![Build Status](https://travis-ci.org/gonenoob/is-empty-object.svg?branch=master)](https://travis-ci.org/gonenoob/is-empty-object)
+[![Build Status](https://travis-ci.org/gonenoob/isEmptyObject.svg?branch=master)](https://travis-ci.org/gonenoob/isEmptyObject)
 
 ## Install
 
 ```sh
-$ npm install --save is-empty-object
+$ npm install --save obj-is-empty
 ```
 
 ## Usage
