@@ -1,5 +1,5 @@
 # number-digit
-[![Build Status](https://travis-ci.org/gonenoob/isEmptyObject.svg?branch=master)](https://travis-ci.org/gonenoob/isEmptyObject)
+[![Build Status](https://travis-ci.com/gonenoob/isEmptyObject.svg?branch=master)](https://travis-ci.com/gonenoob/isEmptyObject)
 
 ## Install
 
